@@ -19,4 +19,5 @@ public class ReviewControllerTests {
     @MockBean
     private ReviewService reviewService;
     //TODO: work on the dependency injection
+    //TODO: Test every controller method (dev-sarka)
 }
